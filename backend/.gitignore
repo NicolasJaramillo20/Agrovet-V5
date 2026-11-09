@@ -1,0 +1,5 @@
+node_modules/
+.env
+sql/local-mysql-setup.sql
+sql/local-postgres-create-user.sql
+sql/local-postgres-create-database.sql
